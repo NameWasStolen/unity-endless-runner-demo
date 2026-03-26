@@ -8,7 +8,7 @@ This project was developed as a small demo for a Unity workshop, focusing on the
 ## Features
 - Player movement and controls  
 - Obstacle spawning and collision handling  
-- Score tracking over time  
+- Score tracking  
 - Basic game state management (start / game over)  
 
 ## Tech Stack
@@ -16,7 +16,7 @@ This project was developed as a small demo for a Unity workshop, focusing on the
 - C# (Scripting)  
 
 ## Purpose
-Designed as an introductory example to help beginners understand how core gameplay systems are implemented in Unity.
+Designed as an introductory example to help beginners understand basic Unity concepts and features. 
 
 ## Notes
 This is a lightweight prototype focused on functionality and learning outcomes rather than polished visuals or full game design.
